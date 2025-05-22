@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
  
 ## Contact Me:
-[![Linkedin Badge]([https://img.shields.io/badge/-Rakesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gamidi-rakesh-a5ba87292)](https://www.linkedin.com/in/gamidi-rakesh-a5ba87292](https://www.linkedin.com/in/vooturi-avinash-5232ab249/))
+[![Linkedin Badge](https://www.linkedin.com/in/vooturi-avinash-5232ab249/)
 [![Gmail Badge](https://img.shields.io/badge/-vooturiavinash09.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vooturiavinash09@gmail.com)](mailto:vooturiavinash09.com)
 
 ---
