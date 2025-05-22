@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-🔭 I’m currently working on SQL and Front-Development 
-🌱 I’m currently learning New frme work Designs
+-🔭 I’m currently working on SQL and Front-Development 
+-🌱 I’m currently learning New frme work Designs
 
  
 
