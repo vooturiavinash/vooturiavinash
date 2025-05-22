@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 
  
 ## Contact Me:
-[![Linkedin Badge](https://img.shields.io/badge/-Rakesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gamidi-rakesh-a5ba87292)](https://www.linkedin.com/in/gamidi-rakesh-a5ba87292)
-[![Gmail Badge](https://img.shields.io/badge/-rakeshgamidi564@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rakeshgamidi564@gmail.com)](mailto:rakeshgamidi564@gmail.com)
+[![Linkedin Badge]([https://img.shields.io/badge/-Rakesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gamidi-rakesh-a5ba87292)](https://www.linkedin.com/in/gamidi-rakesh-a5ba87292](https://www.linkedin.com/in/vooturi-avinash-5232ab249/))
+[![Gmail Badge](https://img.shields.io/badge/-vooturiavinash09.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vooturiavinash09@gmail.com)](mailto:vooturiavinash09.com)
 
 ---
 
@@ -38,7 +38,8 @@ Here are some ideas to get you started:
 
 ## 💡 Random Dev Quote:
 <!-- QUOTE START -->
-<span style="color:blue;">"The secret to creativity is knowing how to hide your sources."                               — Albert Einstein</span>
+<span style="color:red;">“Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics"
+— Norman Augustine</span>
 <!-- QUOTE END -->
 
 ---
