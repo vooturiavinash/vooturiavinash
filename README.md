@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 ## 💡 Random Dev Quote:
 <!-- QUOTE START -->
-<span style="color:red;">“Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics"
-— Norman Augustine</span>
+<span style="color:red;">“Programs must be written for people to read, and only incidentally for machines to execute.”
+— Harold Abelson</span>
 <!-- QUOTE END -->
 
 
